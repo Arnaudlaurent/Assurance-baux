@@ -2,7 +2,7 @@
 Creation d'un systéme de gestions des assurances et baux pour les restos du coeur
 
 
-QUI
+# QUI
 pour le service assurances et baux représenter par gislaine et un autre personne
 
 deux interlocuteur permanent Benjamin LEMEE stagiaire extia pour les restos du coeur et maxime en alternance pour les restos.
